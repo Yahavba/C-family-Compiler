@@ -10,7 +10,7 @@ Written in Lex, Yacc, C.
 
 <b>Demo:</b>
 <br/><br/>
-![ALT "demo video"](https://github.com/Yahavba/compi-project/blob/master/Videos/Demo.gif)
+![ALT "demo video"](https://github.com/Yahavba/C-family-Compiler/blob/master/Videos/Demo.gif)
 <hr/>
 <b>In order to run the application:</b>
 
